@@ -4,7 +4,7 @@ This procedure describes how to create an Elastigroup from scratch in Azure.
 
 ## Prerequisite
 
-Before you can start, you must connect your Azure account to Spot. For more information, see [Connect your Azure Account](connect-your-cloud-provider/azure-account).
+Before you can start, you must [connect your Azure account to Spot](connect-your-cloud-provider/azure-account).
 
 ## Get Started
 
@@ -13,12 +13,12 @@ Before you can start, you must connect your Azure account to Spot. For more info
 
 <img src="/elastigroup/_media/gettingstarted-eg-azure-01.png" />
 
-The Creation Wizard has the following major parts that you will complete:
+These are the steps in the Creation Wizard:
 
-- General
-- Compute
-- Scaling
-- Review
+1. General
+2. Compute
+3. Scaling
+4. Review
 
 ## Step 1: General
 
